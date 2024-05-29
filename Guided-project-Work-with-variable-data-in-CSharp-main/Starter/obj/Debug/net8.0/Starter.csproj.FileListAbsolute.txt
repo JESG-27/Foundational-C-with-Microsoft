@@ -1,0 +1,14 @@
+D:\Códigos y Programas\C#\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\bin\Debug\net8.0\Starter.exe
+D:\Códigos y Programas\C#\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\bin\Debug\net8.0\Starter.deps.json
+D:\Códigos y Programas\C#\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\bin\Debug\net8.0\Starter.runtimeconfig.json
+D:\Códigos y Programas\C#\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\bin\Debug\net8.0\Starter.dll
+D:\Códigos y Programas\C#\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\bin\Debug\net8.0\Starter.pdb
+D:\Códigos y Programas\C#\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\obj\Debug\net8.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Códigos y Programas\C#\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\obj\Debug\net8.0\Starter.AssemblyInfoInputs.cache
+D:\Códigos y Programas\C#\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\obj\Debug\net8.0\Starter.AssemblyInfo.cs
+D:\Códigos y Programas\C#\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\obj\Debug\net8.0\Starter.csproj.CoreCompileInputs.cache
+D:\Códigos y Programas\C#\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\obj\Debug\net8.0\Starter.dll
+D:\Códigos y Programas\C#\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\obj\Debug\net8.0\refint\Starter.dll
+D:\Códigos y Programas\C#\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\obj\Debug\net8.0\Starter.pdb
+D:\Códigos y Programas\C#\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\obj\Debug\net8.0\Starter.genruntimeconfig.cache
+D:\Códigos y Programas\C#\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\obj\Debug\net8.0\ref\Starter.dll

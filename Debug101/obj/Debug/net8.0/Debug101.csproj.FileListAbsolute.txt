@@ -1,0 +1,14 @@
+D:\Códigos y Programas\C#\Debug101\bin\Debug\net8.0\Debug101.exe
+D:\Códigos y Programas\C#\Debug101\bin\Debug\net8.0\Debug101.deps.json
+D:\Códigos y Programas\C#\Debug101\bin\Debug\net8.0\Debug101.runtimeconfig.json
+D:\Códigos y Programas\C#\Debug101\bin\Debug\net8.0\Debug101.dll
+D:\Códigos y Programas\C#\Debug101\bin\Debug\net8.0\Debug101.pdb
+D:\Códigos y Programas\C#\Debug101\obj\Debug\net8.0\Debug101.GeneratedMSBuildEditorConfig.editorconfig
+D:\Códigos y Programas\C#\Debug101\obj\Debug\net8.0\Debug101.AssemblyInfoInputs.cache
+D:\Códigos y Programas\C#\Debug101\obj\Debug\net8.0\Debug101.AssemblyInfo.cs
+D:\Códigos y Programas\C#\Debug101\obj\Debug\net8.0\Debug101.csproj.CoreCompileInputs.cache
+D:\Códigos y Programas\C#\Debug101\obj\Debug\net8.0\Debug101.dll
+D:\Códigos y Programas\C#\Debug101\obj\Debug\net8.0\refint\Debug101.dll
+D:\Códigos y Programas\C#\Debug101\obj\Debug\net8.0\Debug101.pdb
+D:\Códigos y Programas\C#\Debug101\obj\Debug\net8.0\Debug101.genruntimeconfig.cache
+D:\Códigos y Programas\C#\Debug101\obj\Debug\net8.0\ref\Debug101.dll
